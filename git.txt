@@ -1,0 +1,9 @@
+Git commands
+    git init    : inicializa repositorio Git
+    git add     : Agrega los archivos para hacer seguimiento, si es todo el repositorio solamente usar . si es un archivo especificar el nombre del archivo
+    git commit -m "mensaje"     : Hace commit  de los archivos, es importante siempre etiquetar el commit con un comentario para poder identificar de manera mas rapida que se hizo en este commit.
+    git status  : muestra el estado actual del seguimiento de Git
+    git log     : Muestra todo el historial de los commit realizados
+    git diff    : Muestra las diferencias de la versión modificada y la sin modificaciones
+    git
+    
