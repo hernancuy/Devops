@@ -5,5 +5,7 @@ Git commands
     git status  : muestra el estado actual del seguimiento de Git
     git log     : Muestra todo el historial de los commit realizados
     git diff    : Muestra las diferencias de la versión modificada y la sin modificaciones
-    git
+    git checkout <ID commit>: Devuelve los archivos a su versión indicada en el ID
+    git push -u origin master : envia los cambiso a git 
+
     
