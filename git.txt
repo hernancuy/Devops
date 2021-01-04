@@ -7,5 +7,6 @@ Git commands
     git diff    : Muestra las diferencias de la versión modificada y la sin modificaciones
     git checkout <ID commit>: Devuelve los archivos a su versión indicada en el ID
     git push -u origin master : envia los cambiso a git 
+    git branch <nombre> : crea una rama de git para trabajar fuera del repositorio central
 
     
